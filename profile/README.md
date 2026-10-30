@@ -54,7 +54,7 @@ AI can save time writing code. It doesn't replace the responsibility to understa
 
 ## Keep it useful, not endlessly bigger
 
-I'd love contributions, feedback, and real-world testing. You don't have to write code to help — **a clear GitHub issue is already a valuable contribution**.
+I'd love feedback, real-world testing, and new ideas. You don't need to write code by hand to contribute — in fact, I'd encourage you to **use your own AI tools to turn your ideas into working improvements**. Bring your vision, guide the implementation, test the result, and share it. A well-described issue is welcome too, but there's no reason we all have to wait for someone else to build what we have in mind.
 
 There is, however, one thing I want to avoid: *feature creep*.
 
@@ -72,7 +72,7 @@ That's a personal principle, not a claim that AI-generated code is automatically
 
 ## Want to help?
 
-Try a plugin. Report a bug. Suggest an improvement. Open a pull request. Or just tell me whether something works well in the real world.
+Try a plugin. Report a bug. Share an idea — or use AI to build it the way you envision it and open a pull request. The important part isn't who typed the code, but whether the result is useful, understandable, and reliable.
 
 Constructive feedback and contributions are always welcome.
 
