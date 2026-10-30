@@ -34,6 +34,16 @@ And updates aren't an optional luxury. Especially for software exposed to the in
 
 That tension is a big part of why this organization exists.
 
+## AI-assisted doesn't mean quality-optional
+
+Using AI to help write code doesn't lower the bar. If anything, it makes being deliberate about quality even more important.
+
+My priorities are **code quality, meaningful tests, and usability**. A plugin should be reliable, easy to understand, and pleasant to use — not just technically capable of doing the job.
+
+And just because code was generated with AI doesn't mean it should look like it was written for another AI to decipher. **Humans still need to be able to read, review, debug, maintain, and extend it.** Clear structure, sensible naming, consistent coding standards, and understandable implementation choices matter.
+
+AI can save time writing code. It doesn't replace the responsibility to understand what the code does or to make sure it actually works. Preferably before a user discovers the interesting edge cases for us.
+
 ## Keep it useful, not endlessly bigger
 
 I'd love contributions, feedback, and real-world testing. You don't have to write code to help — **a clear GitHub issue is already a valuable contribution**.
