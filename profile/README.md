@@ -18,7 +18,11 @@ That also changes the economics. If you're running an agency with dozens of clie
 
 After years of working with WordPress, I usually have a pretty clear idea of what I need a plugin to do — and, just as importantly, what I *don't* need it to do.
 
-So I started using different AI tools to help turn those ideas into technical concepts and, eventually, working plugins. AI helps with the implementation; experience, testing, and real-world requirements decide what belongs in the product.
+These projects are also my way of exploring what AI can actually make possible. I use different AI tools to turn my own ideas into technical concepts and, eventually, plugins that work the way *I* want to use them — rather than adapting my workflow to someone else's pricing tiers or product roadmap.
+
+I believe AI, when guided with clear goals, technical understanding, and a healthy dose of critical thinking, can help **democratize access to knowledge and software development**. Ideas that once required a considerable budget or a whole development team can become realistic projects for individuals and small organizations. That's pretty exciting — even if it might make the occasional subscription sales department a little nervous.
+
+AI is a powerful tool, not a magic "make it good" button. Experience, testing, and real-world requirements still decide what belongs in the product.
 
 The goal isn't to reinvent everything or build the world's 47th all-in-one solution. It's to create useful tools that solve specific problems without unnecessary complications.
 
