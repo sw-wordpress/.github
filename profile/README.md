@@ -12,6 +12,10 @@ One subscription might not hurt. A handful of them on every small business websi
 
 ## Why I'm building these plugins
 
+These days, WordPress development is mostly a hobby for me. I enjoy using it to help local clubs, non-profits, and small businesses get useful websites without turning every project into a major investment.
+
+That also changes the economics. If you're running an agency with dozens of clients, a big "unlimited sites" license can make perfect sense: spread the cost across enough projects and everyone wins. But when you're helping a handful of organizations in your spare time, those agency bundles aren't always an option. I don't want to buy an expensive package upfront on the off chance that enough future projects will justify it. My hobby doesn't need a subscription business plan of its own.
+
 After years of working with WordPress, I usually have a pretty clear idea of what I need a plugin to do — and, just as importantly, what I *don't* need it to do.
 
 So I started using different AI tools to help turn those ideas into technical concepts and, eventually, working plugins. AI helps with the implementation; experience, testing, and real-world requirements decide what belongs in the product.
@@ -26,7 +30,7 @@ I also understand why larger organizations pay for commercial products: they nee
 
 But I think it's fair to ask:
 
-**Do I really need to charge every tiny business €500 a year just so its website can continue receiving updates?**
+**Does every tiny business or local club really need to spend €500 a year just so its website can continue receiving updates?**
 
 Yes, many plugins offer free versions. In practice, though, essential features may be available while the interface, workflows, integrations, or convenience features are deliberately restricted.
 
