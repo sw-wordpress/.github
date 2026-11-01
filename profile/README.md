@@ -64,7 +64,7 @@ In short: flexible enough for developers, understandable enough for everyone els
 
 ## Open source means open for business, too
 
-The plugins in this organization are intended to be released under the **MIT License**. That means you're welcome to use, modify, redistribute, and incorporate them into commercial projects, subject to the license terms.
+The plugins in this organization are intended to be released under the **GPLv2 License**, because of Wordpress license. That means you're welcome to use, modify, redistribute, and incorporate them into commercial projects, subject to the license terms.
 
 I also believe AI-assisted code should be shared openly wherever practical. AI systems have benefited from an enormous amount of human-created knowledge and content. Making useful results available to others feels like a reasonable way to give something back.
 
